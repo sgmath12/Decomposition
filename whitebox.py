@@ -107,7 +107,7 @@ def main(args):
 
     train_set,test_set = datasets.CIFAR10(root = '/home/taejoon/data/CIFAR10',normalize=False)
     num_classes = 10
-    batch_size = 4
+    batch_size = 64
     test_loader = torch.utils.data.DataLoader(test_set,batch_size = batch_size)
 
 

@@ -43,7 +43,7 @@ def main(args):
     model = blackbox(classifier)
     train_set,test_set = datasets.CIFAR10(root = '/home/taejoon/data/CIFAR10',normalize=False)
     num_classes = 10
-    batch_size = 16
+    batch_size = 64
 
     test_loader = torch.utils.data.DataLoader(test_set,batch_size = batch_size)
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
