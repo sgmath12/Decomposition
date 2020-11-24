@@ -1,0 +1,120 @@
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 6, tucker_rank : [1, 6, 6]
+clean : 0.8225 adv_acc : 0.1664 cp_acc : 0.4331 tucker_acc : 0.4111
+==================================================
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 8, tucker_rank : [1, 8, 8]
+clean : 0.8225 adv_acc : 0.1583 cp_acc : 0.3735 tucker_acc : 0.36
+==================================================
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 10, tucker_rank : [1, 10, 10]
+clean : 0.8225 adv_acc : 0.1527 cp_acc : 0.3018 tucker_acc : 0.3084
+==================================================
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 12, tucker_rank : [1, 12, 12]
+clean : 0.8225 adv_acc : 0.1429 cp_acc : 0.2503 tucker_acc : 0.2634
+==================================================
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 16, tucker_rank : [1, 16, 16]
+clean : 0.8225 adv_acc : 0.1364 cp_acc : 0.1898 tucker_acc : 0.2188
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 6, tucker_rank : [1, 6, 6]
+clean : 0.8225 adv_acc : 0.0398 cp_acc : 0.456 tucker_acc : 0.4289
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 8, tucker_rank : [1, 8, 8]
+clean : 0.8225 adv_acc : 0.0344 cp_acc : 0.3774 tucker_acc : 0.3583
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 10, tucker_rank : [1, 10, 10]
+clean : 0.8225 adv_acc : 0.0301 cp_acc : 0.2578 tucker_acc : 0.2676
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 12, tucker_rank : [1, 12, 12]
+clean : 0.8225 adv_acc : 0.0303 cp_acc : 0.1661 tucker_acc : 0.1927
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 16, tucker_rank : [1, 16, 16]
+clean : 0.8225 adv_acc : 0.0231 cp_acc : 0.0616 tucker_acc : 0.0896
+==================================================
+Attack Method : DeepFool
+epsilon : 8/255
+cp_rank : 6, tucker_rank : [1, 6, 6]
+clean : 0.8225 adv_acc : 0.5997 cp_acc : 0.6725 tucker_acc : 0.6078
+==================================================
+Attack Method : DeepFool
+epsilon : 8/255
+cp_rank : 8, tucker_rank : [1, 8, 8]
+clean : 0.8225 adv_acc : 0.5584 cp_acc : 0.7219 tucker_acc : 0.6534
+==================================================
+Attack Method : DeepFool
+epsilon : 8/255
+cp_rank : 10, tucker_rank : [1, 10, 10]
+clean : 0.8225 adv_acc : 0.5324 cp_acc : 0.7419 tucker_acc : 0.6674
+==================================================
+Attack Method : DeepFool
+epsilon : 8/255
+cp_rank : 12, tucker_rank : [1, 12, 12]
+clean : 0.8225 adv_acc : 0.5151 cp_acc : 0.7472 tucker_acc : 0.6586
+==================================================
+Attack Method : DeepFool
+epsilon : 8/255
+cp_rank : 16, tucker_rank : [1, 16, 16]
+clean : 0.8225 adv_acc : 0.4987 cp_acc : 0.7195 tucker_acc : 0.6318
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 6, tucker_rank : [1, 6, 6]
+clean : 0.8225 adv_acc : 0.0385 cp_acc : 0.4577 tucker_acc : 0.4346
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 8, tucker_rank : [1, 8, 8]
+clean : 0.8225 adv_acc : 0.037 cp_acc : 0.3756 tucker_acc : 0.36
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 10, tucker_rank : [1, 10, 10]
+clean : 0.8225 adv_acc : 0.0321 cp_acc : 0.2591 tucker_acc : 0.272
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 12, tucker_rank : [1, 12, 12]
+clean : 0.8225 adv_acc : 0.0286 cp_acc : 0.1648 tucker_acc : 0.1903
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 16, tucker_rank : [1, 16, 16]
+clean : 0.8225 adv_acc : 0.0248 cp_acc : 0.0622 tucker_acc : 0.0891
+==================================================
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 4, tucker_rank : [1, 4, 4]
+clean : 0.8225 adv_acc : 0.178 cp_acc : 0.4555 tucker_acc : 0.4258
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 4, tucker_rank : [1, 4, 4]
+clean : 0.8225 adv_acc : 0.0471 cp_acc : 0.4763 tucker_acc : 0.4332
+==================================================
+Attack Method : DeepFool
+epsilon : 8/255
+cp_rank : 4, tucker_rank : [1, 4, 4]
+clean : 0.8225 adv_acc : 0.659 cp_acc : 0.5729 tucker_acc : 0.5208
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 4, tucker_rank : [1, 4, 4]
+clean : 0.8225 adv_acc : 0.0493 cp_acc : 0.4715 tucker_acc : 0.4342
+==================================================

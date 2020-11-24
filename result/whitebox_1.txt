@@ -1,0 +1,98 @@
+Attack Method : BPDA
+Decomposition method : tucker
+Autoencoder : False
+epsilon : 8/255
+rank : 4
+clean : 0.6334 adv_acc : 0.0425
+==================================================
+Attack Method : BPDA
+Decomposition method : tucker
+Autoencoder : False
+epsilon : 8/255
+rank : 6
+clean : 0.7396 adv_acc : 0.0244
+==================================================
+Attack Method : BPDA
+Decomposition method : tucker
+Autoencoder : False
+epsilon : 8/255
+rank : 8
+clean : 0.7888 adv_acc : 0.0107
+==================================================
+Attack Method : BPDA
+Decomposition method : tucker
+Autoencoder : False
+epsilon : 8/255
+rank : 12
+clean : 0.8288 adv_acc : 0.0016
+==================================================
+Attack Method : BPDA
+Decomposition method : tucker
+Autoencoder : False
+epsilon : 8/255
+rank : 16
+clean : 0.8407 adv_acc : 0.0005
+==================================================
+Attack Method : BPDA
+Decomposition method : tucker
+Autoencoder : True
+epsilon : 8/255
+rank : 4
+clean : 0.6377 adv_acc : 0.0335
+==================================================
+Attack Method : BPDA
+Decomposition method : tucker
+Autoencoder : True
+epsilon : 8/255
+rank : 12
+clean : 0.8206 adv_acc : 0.0046
+==================================================
+Attack Method : BPDA
+Decomposition method : tucker
+Autoencoder : True
+epsilon : 8/255
+rank : 16
+clean : 0.828 adv_acc : 0.0023
+==================================================
+Attack Method : BPDA
+Decomposition method : cp
+Autoencoder : False
+epsilon : 8/255
+rank : 4
+clean : 0.6045 adv_acc : 0.0589
+==================================================
+Attack Method : BPDA
+Decomposition method : cp
+Autoencoder : False
+epsilon : 8/255
+rank : 6
+clean : 0.7204 adv_acc : 0.0362
+==================================================
+Attack Method : BPDA
+Decomposition method : tucker
+Autoencoder : False
+epsilon : 8/255
+rank : 12
+clean : 0.2992 adv_acc : 0.1883
+==================================================
+Attack Method : BPDA
+Decomposition method : cp
+Autoencoder : False
+epsilon : 8/255
+rank : 12
+clean : 0.7979 adv_acc : 0.2184
+==================================================
+Attack Method : BPDA
+Decomposition method : cp
+Autoencoder : False
+epsilon : 8/255
+rank : 12
+clean : 0.8 adv_acc : 0.0167
+==================================================
+Attack Method : BPDA
+Decomposition method : cp
+Autoencoder : False
+epsilon : 8/255
+rank : 8
+clean : 0.7768 adv_acc : 0.0205
+==================================================

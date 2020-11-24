@@ -1,0 +1,115 @@
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 6, tucker_rank : [3, 6, 6]
+clean : 0.8437 adv_acc : 0.1173 cp_acc : None tucker_acc : 0.3715
+==================================================
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 4, tucker_rank : [3, 4, 4]
+clean : 0.8437 adv_acc : 0.1222 cp_acc : None tucker_acc : 0.4359
+==================================================
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 8, tucker_rank : [3, 8, 8]
+clean : 0.8437 adv_acc : 0.1132 cp_acc : None tucker_acc : 0.2886
+==================================================
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 10, tucker_rank : [3, 10, 10]
+clean : 0.8437 adv_acc : 0.1074 cp_acc : None tucker_acc : 0.2193
+==================================================
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 12, tucker_rank : [3, 12, 12]
+clean : 0.8437 adv_acc : 0.1048 cp_acc : None tucker_acc : 0.1727
+==================================================
+Attack Method : FGSM
+epsilon : 8/255
+cp_rank : 16, tucker_rank : [3, 16, 16]
+clean : 0.8437 adv_acc : 0.1025 cp_acc : None tucker_acc : 0.1278
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 4, tucker_rank : [3, 4, 4]
+clean : 0.8437 adv_acc : 0.0019 cp_acc : None tucker_acc : 0.4457
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 6, tucker_rank : [3, 6, 6]
+clean : 0.8437 adv_acc : 0.0014 cp_acc : None tucker_acc : 0.3705
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 8, tucker_rank : [3, 8, 8]
+clean : 0.8437 adv_acc : 0.0011 cp_acc : None tucker_acc : 0.2316
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 10, tucker_rank : [3, 10, 10]
+clean : 0.8437 adv_acc : 0.0004 cp_acc : None tucker_acc : 0.1031
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 12, tucker_rank : [3, 12, 12]
+clean : 0.8437 adv_acc : 0.0003 cp_acc : None tucker_acc : 0.0372
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 16, tucker_rank : [3, 16, 16]
+clean : 0.8437 adv_acc : 0.0 cp_acc : None tucker_acc : 0.0021
+==================================================
+Attack Method : DeepFool
+epsilon : 8/255
+cp_rank : 4, tucker_rank : [3, 4, 4]
+clean : 0.8437 adv_acc : 0.5071 cp_acc : None tucker_acc : 0.6101
+==================================================
+Attack Method : DeepFool
+epsilon : 8/255
+cp_rank : 6, tucker_rank : [3, 6, 6]
+clean : 0.8437 adv_acc : 0.4358 cp_acc : None tucker_acc : 0.7045
+==================================================
+Attack Method : DeepFool
+epsilon : 8/255
+cp_rank : 12, tucker_rank : [3, 12, 12]
+clean : 0.8437 adv_acc : 0.3454 cp_acc : None tucker_acc : 0.7468
+==================================================
+Attack Method : DeepFool
+epsilon : 8/255
+cp_rank : 16, tucker_rank : [3, 16, 16]
+clean : 0.8437 adv_acc : 0.3287 cp_acc : None tucker_acc : 0.6216
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 4, tucker_rank : [3, 4, 4]
+clean : 0.8437 adv_acc : 0.0018 cp_acc : None tucker_acc : 0.4461
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 6, tucker_rank : [3, 6, 6]
+clean : 0.8437 adv_acc : 0.0014 cp_acc : None tucker_acc : 0.3739
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 8, tucker_rank : [3, 8, 8]
+clean : 0.8437 adv_acc : 0.0012 cp_acc : None tucker_acc : 0.2294
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 10, tucker_rank : [3, 10, 10]
+clean : 0.8437 adv_acc : 0.0006 cp_acc : None tucker_acc : 0.1043
+==================================================
+Attack Method : PGD
+epsilon : 8/255
+cp_rank : 4, tucker_rank : [3, 4, 4]
+clean : 0.8437 adv_acc : 0.0018 cp_acc : None tucker_acc : 0.4452
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 12, tucker_rank : [3, 12, 12]
+clean : 0.8316 adv_acc : 0.0018 cp_acc : None tucker_acc : 0.0149
+==================================================
+Attack Method : EOT
+epsilon : 8/255
+cp_rank : 16, tucker_rank : [3, 16, 16]
+clean : 0.8437 adv_acc : 0.0 cp_acc : None tucker_acc : 0.0029
+==================================================
